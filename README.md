@@ -27,7 +27,7 @@ messages to complete your work in `regex.py` in the `lib` folder.
 This lab is meant to give you experience with writing patterns for regular
 expressions and using the `re` module to check your pattern against different
 strings. Use [regex101][regex101] to test your pattern as you work through the
-different strings.
+different strings...
 
 - Run `pytest -x` to execute the first test. This will check your RegEx against
   the string `"It's such a lovely day today."`
